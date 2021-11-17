@@ -1,7 +1,4 @@
 <?php require_once "core/load.php"?>
-
-
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
