@@ -1,11 +1,5 @@
 <?php require_once "core/load.php" ?>
 <?php 
-if(isMobile()){
-    echo "";
-}
-else {
-    die;
-}
 $result='';
 if(isset($_POST['submit'])){
     $check = checkUser($conn,$_POST['uname'],$_POST['psw']);
