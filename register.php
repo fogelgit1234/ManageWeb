@@ -12,13 +12,13 @@
             box-sizing: border-box;
         }
 
-        /* Add padding to containers */
+      
         .container {
             padding: 16px;
             background-color: white;
         }
 
-        /* Full-width input fields */
+      
         input[type=text], input[type=password] {
             width: 100%;
             padding: 15px;
